@@ -18,3 +18,5 @@ for (let i = 1; i <= maxNumber; i++) {
         console.log(i)
     }
 }
+
+// write (node mini-test) in console to run code
